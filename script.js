@@ -1,9 +1,7 @@
 function showMessage() {
     alert("Penis ❤️");
 }
-function showMessage() {
-    alert("Jeg elsker dig, Kahrine! ❤️");
-}
+
 
 // Funktion til at åbne video-pop-up
 function openVideo() {
